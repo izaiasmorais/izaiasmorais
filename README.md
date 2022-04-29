@@ -1,16 +1,16 @@
-### Hi , I'm Izaías 
+#### Hi 👋, I'm Izaías 
 
 • 📚 I'm currently studing Reac Js at https://github.com/origamid/
 • 
 • 
 
-### Technologies
+### 💻 Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40"/>
 
-### Learning...
+### 🚀 Learning...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 
-### Contact
+### ☎️ Contact
 
 <div>
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
