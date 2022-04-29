@@ -1,4 +1,4 @@
-### Hi 👋, I'm Izaías 
+## Hi 👋, I'm Izaías 
 
 • 📚 I'm currently studing Reac Js at https://github.com/origamid/ \n
 • 
