@@ -2,13 +2,13 @@
 
 • 📚 __I'm currently studing React JS at__ [Origamid](https://github.com/origamid/) 
 
-### 💻 Technologies
+## 💻 Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
-### 🚀 Learning...
+## 🚀 Learning...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div>
 <a href="https://github.com/IzaiasMorais">
@@ -16,7 +16,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IzaiasMorais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-### ☎️ Contact
+## ☎️ Contact
 
 <div>
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
