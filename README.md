@@ -2,7 +2,7 @@
 
 ### 📚 **Eu atualmente estou estudando React JS na** [Rocketseat](https://github.com/Rocketseat)
 
-### 💻 Tecnologias que tenho conhecimento
+### 💻 Tecnologias que possuo conhecimento
 
 <p>
 
