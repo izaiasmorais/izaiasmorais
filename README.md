@@ -1,4 +1,4 @@
-# Olá 👋, me chamo Izaías
+# Olá 👋
 
 ### 📚 **Eu atualmente estou estudando React JS na** [Rocketseat](https://github.com/Rocketseat)
 
