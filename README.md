@@ -1,6 +1,6 @@
 # Olá 👋
 
-### 📚 **Eu atualmente estou estudando React JS na** [Rocketseat](https://github.com/Rocketseat)
+### 📚 **Eu atualmente estou estudando React na** [Rocketseat](https://github.com/Rocketseat)
 
 ### 💻 Tecnologias que possuo conhecimento
 
