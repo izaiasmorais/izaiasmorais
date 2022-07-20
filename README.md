@@ -1,6 +1,6 @@
 # Olá 👋
 
-Apaixonado por Programação, venho estudando tecnologias na área há cerca de 2 anos, com foco no desenvolvimento de aplicações Web. Sigo bucando oportunidades para resolver problemas.
+Apaixonado por Programação, venho estudando tecnologias na área há cerca de 2 anos, com foco no desenvolvimento de aplicações Web. Sigo buscando oportunidades para resolver problemas.
 
 📚 Eu atualmente estou estudando React na [Rocketseat](https://github.com/Rocketseat)
 
