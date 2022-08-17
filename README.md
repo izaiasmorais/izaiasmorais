@@ -2,7 +2,7 @@
 
 Apaixonado por Programação, venho estudando tecnologias na área há cerca de 3 anos, com foco no desenvolvimento de aplicações Web. Sigo buscando oportunidades para resolver problemas.
 
-📚 Eu atualmente estou estudando NodeJS na [Rocketseat](https://github.com/Rocketseat).
+📚 Eu atualmente estou estudando Node.js na [Rocketseat](https://github.com/Rocketseat).
 
 ### 💻 Tecnologias que possuo conhecimento:
 
