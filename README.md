@@ -22,10 +22,12 @@ Apaixonado por Programação, venho estudando tecnologias na área há cerca de 
 
 ### 📊 GitHub Analytics
 
-<div>
-<a href="https://github.com/IzaiasMorais">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaiasMorais&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IzaiasMorais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izaiasmorais&theme=dracula"/> <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izaiasmorais&theme=dracula"/>  
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=izaiasmorais&theme=dracula"/>
+  
+</p>
 
 ### ☎️ Contato
 
