@@ -22,7 +22,7 @@ Apaixonado por Programação, venho estudando tecnologias na área há cerca de 
 
 ### 📊 GitHub Analytics
 
-<p align="center">
+<p >
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izaiasmorais&theme=dracula"/> <br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izaiasmorais&theme=dracula"/>  
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=izaiasmorais&theme=dracula"/>
