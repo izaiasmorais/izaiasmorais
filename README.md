@@ -15,7 +15,6 @@ Apaixonado por Programação, venho estudando tecnologias na área há cerca de 
   
 </p>
 
-
 ### 🚀 Em aprendizado...
 
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 2px;" height="30px">
