@@ -1,6 +1,6 @@
 # Olá 👋
 
-Apaixonado por Programação, venho estudando tecnologias na área há mais de 3 anos, com foco no desenvolvimento de aplicações Web. Sigo buscando oportunidades para resolver problemas.
+Apaixonado por Programação, venho estudando tecnologias na área desde 2019, com foco no desenvolvimento de aplicações Web. Sigo buscando oportunidades para resolver problemas.
 
 📚 Eu atualmente estou estudando Node JS na [Rocketseat](https://github.com/Rocketseat).
 
