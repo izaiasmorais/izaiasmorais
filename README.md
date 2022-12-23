@@ -17,7 +17,7 @@ Apaixonado por Programação, venho estudando tecnologias na área desde 2019, c
 
 ### 🚀 Em aprendizado...
 
-<img src="https://img.shields.io/badge/c99-659AD2?style=for-the-badge&logo=c&logoColor=white" style="margin-bottom: 2px;" height="30px"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 2px;" height="30px"> <img src="https://img.shields.io/badge/nest js-E93333?style=for-the-badge&logo=nestjs&logoColor=white" style="margin-bottom: 2px;" height="30px"> <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" style="margin-bottom: 2px;" height="30px">
+<img src="https://img.shields.io/badge/c99-659AD2?style=for-the-badge&logo=c&logoColor=white" style="margin-bottom: 2px;" height="30px"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 2px;" height="30px"> <img src="https://img.shields.io/badge/nest js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" style="margin-bottom: 2px;" height="30px"> <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" style="margin-bottom: 2px;" height="30px">
 
 ### 📊 GitHub Analytics
 
