@@ -33,17 +33,17 @@ Apaixonado por Programação, venho estudando tecnologias na área desde 2019, c
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" />
+<img src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" width="36" height="36" alt="React Query" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
 </p>
 
 ### 📊 GitHub Analytics
 
-<p >
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izaiasmorais&theme=dracula"/> <br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izaiasmorais&theme=dracula"/>
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=izaiasmorais&theme=dracula"/>
-
+<p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izaiasmorais&theme=dracula"/> <br />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izaiasmorais&theme=dracula"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=izaiasmorais&theme=dracula"/>
 </p>
 
 ### ☎️ Contato
