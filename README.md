@@ -1,5 +1,5 @@
 
-# Olá 👋
+# Olá 👋, me chamo Izaías
 
 Apaixonado por Programação, venho estudando tecnologias na área desde 2019, com foco no desenvolvimento de aplicações Web. Sigo buscando oportunidades para resolver problemas.
 
@@ -38,7 +38,7 @@ Apaixonado por Programação, venho estudando tecnologias na área desde 2019, c
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
 </p>
 
-### 📊 GitHub Analytics
+### 📊 Análise do GitHub
 
 <p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izaiasmorais&theme=dracula"/> <br />
