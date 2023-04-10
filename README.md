@@ -40,9 +40,8 @@ Apaixonado por Programação, venho estudando tecnologias na área desde 2019, c
 ### 📊 Análise do GitHub
 
 <p>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izaiasmorais&theme=dracula"/> <br />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izaiasmorais&theme=dracula"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=izaiasmorais&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api?username=izaiasmorais&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaiasmorais&layout=compact&langs_count=7&theme=material-palenight" />
 </p>
 
 ### ☎️ Contato
