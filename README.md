@@ -35,6 +35,7 @@ Apaixonado por Programação, venho estudando tecnologias na área desde 2019, c
 <img src="https://vectorwiki.com/images/Skj0l__react-query-icon.svg" width="36" height="36" alt="React Query" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+<img src="https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png" width="36" height="36" alt="Python" />
 </p>
 
 ### 📊 Análise do GitHub
