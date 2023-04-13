@@ -38,7 +38,7 @@ Apaixonado por Programação, venho estudando tecnologias na área desde 2019, c
 <img src="https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png" width="36" height="36" alt="Python" />
 </p>
 
-### 📊 Análise do GitHub
+### 📊 Análises do GitHub
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=izaiasmorais&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
