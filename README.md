@@ -25,6 +25,8 @@ Apaixonado por Programação, venho estudando tecnologias na área desde 2019, c
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="36" height="36" alt="Notion" />
+<img src="https://vectorwiki.com/images/Skj0l__react-query-icon.svg" width="36" height="36" alt="React Query" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="33" height="36" alt="C" />
 <p>
 
 ### 🚀 Em aprendizado...
@@ -32,11 +34,8 @@ Apaixonado por Programação, venho estudando tecnologias na área desde 2019, c
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" />
-<img src="https://vectorwiki.com/images/Skj0l__react-query-icon.svg" width="36" height="36" alt="React Query" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="33" height="36" alt="C" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="33" height="36" alt="C++" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-<img src="https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png" width="36" height="36" alt="Python" />
+<img src="https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png" width="36" height="36" alt="Java" />
 </p>
 
 ### 📊 Análises do GitHub
