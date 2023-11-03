@@ -28,7 +28,7 @@ Apaixonado por Programação, venho estudando tecnologias na área desde 2019, c
 <img src="https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png" width="36" height="36" alt="Java" />
 <p>
 
-### 🚀 Stack Principal...
+### 🚀 Stack Principal:
   
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
@@ -36,21 +36,21 @@ Apaixonado por Programação, venho estudando tecnologias na área desde 2019, c
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
 </p>
 
-### 👀 Tenho interesse...
+### 👀 Tenho interesse:
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" />
 </p>
 
-### 📊 Análises do GitHub
+### 📊 Análises do GitHub:
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=izaiasmorais&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaiasmorais&layout=compact&langs_count=7&theme=material-palenight" />
 </p>
 
-### ☎️ Contato
+### ☎️ Contato:
 
 <div>
 <a href = "mailto:izaiaslima356@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
