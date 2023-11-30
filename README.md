@@ -2,7 +2,7 @@
 
 Apaixonado por Programação, venho estudando tecnologias na área desde 2019, com foco no desenvolvimento de aplicações Web. Sigo buscando oportunidades para resolver problemas.
 
-📚 Atualmente, estou estudando ReactJS na [Rocketseat](https://github.com/Rocketseat), e aprofundando meus conhecimentos em programação com Python e Java.
+📚 Atualmente estou estudando ReactJS na [Rocketseat](https://github.com/Rocketseat), e aprofundando meus conhecimentos em programação com Python e Java.
 
 ### 💻 Tecnologias que possuo conhecimento:
 
