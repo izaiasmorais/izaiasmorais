@@ -28,9 +28,10 @@ Apaixonado por Programação, venho estudando tecnologias na área desde 2019, c
 <p>
 
 ### 🚀 Stack Principal:
-  
+
+
 <p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
+<img src="https://github.com/izaiasmorais/izaiasmorais/assets/53953937/fad3b948-2763-4b65-a456-0dec48414bdf" width="36" height="36" alt="NextJs" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
 <img src="https://vectorwiki.com/images/Skj0l__react-query-icon.svg" width="36" height="36" alt="React Query" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
