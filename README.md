@@ -1,6 +1,6 @@
 ## Olá 👋, me chamo Izaías
 
-Apaixonado por Programação, venho estudando tecnologias na área desde 2019, com foco no desenvolvimento de aplicações Web. Sigo buscando oportunidades para resolver problemas.
+Apaixonado por Programação, venho estudando tecnologias na área desde 2022, com foco no desenvolvimento de aplicações Web. Sigo buscando oportunidades para resolver problemas.
 
 📚 Atualmente estou estudando aprofundando meus conhecimentos em desenvolvimento web na [Rocketseat](https://github.com/Rocketseat).
 
