@@ -2,7 +2,7 @@
 
 Apaixonado por Programação, venho estudando tecnologias na área desde 2022, com foco no desenvolvimento de aplicações Web. Sigo buscando oportunidades para resolver problemas.
 
-📚 Atualmente estou estudando aprofundando meus conhecimentos em desenvolvimento web na [Rocketseat](https://github.com/Rocketseat).
+📚 Atualmente estou estudando aprofundando meus conhecimentos em Desenvolvimento Web na [Rocketseat](https://github.com/Rocketseat).
 
 ### 💻 Tecnologias que possuo conhecimento:
 
