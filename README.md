@@ -30,7 +30,7 @@ Apaixonado por Programação, venho estudando tecnologias na área desde 2022, c
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
 </p>
 
-### 👀 Tenho interesse:
+### 👀 Em estudo:
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" />
