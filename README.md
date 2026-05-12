@@ -4,6 +4,8 @@
 
 Apaixonado por Programação, tenho 4+ anos de experiência na área, com foco no desenvolvimento de aplicações Web. Sigo buscando oportunidades para resolver problemas.
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=izaiasmorais&theme=material-palenight)](https://git.io/streak-stats)
+
 ### Stack Principal
 
 <div align="left">
@@ -23,6 +25,12 @@ Apaixonado por Programação, tenho 4+ anos de experiência na área, com foco n
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
 </div>
+
+### Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/izaiasmorais)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9956F6?style=for-the-badge&logo=vercel&logoColor=white)](https://izaiasmorais.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izaiaslima356@gmail.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/izaiasmorais/izaiasmorais/output/github-snake-dark.svg" />
