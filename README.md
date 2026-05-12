@@ -2,4 +2,4 @@
 
 Apaixonado por Programação, venho estudando tecnologias na área desde 2022, com foco no desenvolvimento de aplicações Web. Sigo buscando oportunidades para resolver problemas.
 
-<img src="https://raw.githubusercontent.com/izaiasmorais/izaiasmorais/snake-output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/izaiasmorais/izaiasmorais/output/github-snake-dark.svg)
